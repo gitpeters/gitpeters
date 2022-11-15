@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @gitpeters
-- 👀 I’m interested in connecting with people of different ethnicity and knowledge
-- 🌱 I’m currently learning java (Web Application)/Spring/Springboot/react..
-- 📫 How to reach me on instagram @ ab__peters, email @ petersab1111@gmail.com
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/peters-abraham-58161b247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Lokhalman">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gitpeters&style=flat-square&color=blue" alt=""/>
+  </div>
 
-<!---
-gitpeters/gitpeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+  <h1 align="center">
+  Hi everyone
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+     
+
