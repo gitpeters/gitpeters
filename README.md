@@ -26,12 +26,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am `Peter Abraham`, a Java/Springboot Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I'm currently working on a loan project with some team of professional java developers [Github repo](https://github.com/gitpeters/kambokweb).
+I am `Peter Abraham`, a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :seedling: Exploring Technical Content Writing.
-
-- 💻: In my free time, I solve designing with coreldraw & Photoshop.
+- 💻: In my free time, I love designing with coreldraw & Photoshop.
 
 ---
 
