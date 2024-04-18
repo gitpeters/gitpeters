@@ -13,23 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=gitpeters&style=flat-square&color=blue" alt=""/>
   </div>
 
-  
   <h1 align="center">
   Hi everyone
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
-</div>
 
----
-
-### :man_technologist: About Me :
-I am `Peter Abraham`, a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-
-- 💻: In my free time, I love designing with coreldraw & Photoshop.
-
+I am `Peter Abraham`, a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
